@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:targetApi="11">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here.<item name="windowActionBar">true</item>
+        <item name="windowActionBarOverlay">false</item> -->
+
+
+    </style>
+
+
+
+
+
+</resources>
